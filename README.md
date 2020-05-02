@@ -2,4 +2,4 @@
 https://justin8837.github.io/weather-API/
 
 
-!{alt text](https://github.com/justin8837/weather-API/blob/master/example%20image/weather%20api.png)
+![alt text](https://github.com/justin8837/weather-API/blob/master/example%20image/weather%20api.png)
